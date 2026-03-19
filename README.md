@@ -1,2 +1,3 @@
-# lite-blockchain-dapp-cdgj
-A blockchain decentralized application for modern development workflows
+# Lite Blockchain Dapp Cdgj
+
+A blockchain decentralized application for modern development workflows.
